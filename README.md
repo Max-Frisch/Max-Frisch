@@ -4,7 +4,7 @@ Cloud DevOps & Backend Engineer
 
 -------------------------------
 
-Certified in AWS, Kubernetes, Terraform, Linux | I help organizations build, automate and secure fast APIs, Services and CI/CD solutions using 🐍 Python | 🐹 Golang | Git | ⚓Docker | 🐳 Kubernetes | Terraform | Jenkins | Prometheus and other mostly Cloud Native technologies.<br><br>
+Certified in AWS, Kubernetes, Terraform, Linux | I help organizations build, automate and secure fast APIs, Services and CI/CD solutions using 🐍 Python | 🐹 Golang | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" width="16" height="16" alt="Git logo" /> Git | ⚓Docker | <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="16" height="16" alt="Kubernetes logo" /> Kubernetes | <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/03/terraform1.png?resize=267%2C267&ssl=1" width="20" height="20" alt="Terraform logo" /> Terraform | <img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="20" height="20" alt="Jenkins logo" /> Jenkins | Prometheus and other mostly Cloud Native technologies.<br><br>
 
 * 🌍  I'm based in Jakarta, Indonesia
 * 🖥️  See my portfolio at [my Blog(under construction..)](http://maxfrisch.net)
