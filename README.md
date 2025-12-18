@@ -1,44 +1,29 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Maximilian Frisch (Max)
-===============================================================================================================================================
-Cloud DevOps & Backend Engineer
+<img width="205" height="19" alt="image" src="https://github.com/user-attachments/assets/4ca4737c-e2ef-489c-aa21-a209bd94eb45" /># Hi, I'm Max Frisch 👋
+### MSc CS Student | Former SAP IT Project Manager | Aspiring Data & MLOps Engineer
 
--------------------------------
+> I bridge the gap between enterprise-scale project management and production-ready AI engineering. Currently specializing in building scalable data pipelines and deploying ML models on AWS.
 
-Certified in AWS, Kubernetes, Terraform, Linux | I help organizations build, automate and secure fast APIs, Services and CI/CD solutions using 🐍 Python | 🐹 Golang | <img src="https://git-scm.com/images/logos/downloads/Git-Icon-White.png" width="16" height="16" alt="Git logo" /> Git | ⚓Docker | <img src="https://www.svgrepo.com/show/376331/kubernetes.svg" width="16" height="16" alt="Kubernetes logo" /> Kubernetes | <img src="https://i1.wp.com/thepracticalsysadmin.com/wp-content/uploads/2020/03/terraform1.png?resize=267%2C267&ssl=1" width="20" height="20" alt="Terraform logo" /> Terraform | <img src="https://www.svgrepo.com/show/353929/jenkins.svg" width="20" height="20" alt="Jenkins logo" /> Jenkins | Prometheus and other mostly Cloud Native technologies.<br><br>
+---
 
-* 🌍  I'm based in Jakarta, Indonesia
-* 🖥️  See my portfolio at [my Blog(under construction..)](http://maxfrisch.net)
-* ✉️  You can contact me at [maxfrischdev@gmail.com](mailto:maxfrischdev@gmail.com)
-* 🚀  I'm currently working on [Python fun project - Asteroid shooter with pygame](http://github.com/Max-Frisch/asteroid-shooter)
-* 🧠  I'm learning Golang, Linux, Docker, Kubernetes, Terraform, AWS, CI/CD, Prometheus, Grafana ==> DevOps
-* 🤝  I'm open to collaborating on Opensource projects using python/golang to sharpen my skills and contribute to the cloud native space
-* ⚡  I have a beautiful wife and a cute dog :-)<br><br>
+### 🛠️ The Tech Stack
+- **Languages:** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- **AI/ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+- **Cloud/Ops:** ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
-### Skills
+### 🚀 Current Focus & Learning
+- 🎓 **MSc Computer Science:** Specializing in Algorithmic Foundations and Systems Architecture.
+- 🧪 **ML Mastery:** Completing the Andrew Ng Machine Learning Specialization (Implementing algorithms from scratch).
+- ☁️ **AWS Certification:** Preparing for the **AWS Data Engineer Associate** (DEA-C01).
 
+---
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="Fast API" /><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>  <br>
+### 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Max-Frisch&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Frisch&layout=compact&theme=radical)
 
-### Socials
-<p align="left"> <a href="https://www.github.com/Max-Frisch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/Max-Frisch" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/maxfrischdev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
+---
 
-<a href="https://www.github.com/Max-Frisch" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Max-Frisch?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/maxfrischdev" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/maxfrischdev?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><br><br>
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Max-Frisch"><img src="https://github-readme-stats.vercel.app/api?username=Max-Frisch&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Max-Frisch's GitHub stats" /></a>
-
-<a href="http://www.github.com/Max-Frisch"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Max-Frisch&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/Max-Frisch" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Max-Frisch&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Max-Frisch/maze-solver" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Max-Frisch&repo=maze-solver&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+### 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-frisch/)
