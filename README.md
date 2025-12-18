@@ -1,4 +1,4 @@
-<img width="205" height="19" alt="image" src="https://github.com/user-attachments/assets/4ca4737c-e2ef-489c-aa21-a209bd94eb45" /># Hi, I'm Max Frisch 👋
+# Hi, I'm Max Frisch 👋
 ### MSc CS Student | Former SAP IT Project Manager | Aspiring Data & MLOps Engineer
 
 > I bridge the gap between enterprise-scale project management and production-ready AI engineering. Currently specializing in building scalable data pipelines and deploying ML models on AWS.
